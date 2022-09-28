@@ -47,6 +47,12 @@ Planejamento do banco de dados:
 --created_at
 
 
+DIA 28/09
+
+-Fazer a verificação se a pessoa está logada no sistema, verificamos isso através do token
+
+
+
 
 
 Aprendizado: 
