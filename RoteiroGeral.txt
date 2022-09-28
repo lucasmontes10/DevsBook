@@ -1,0 +1,54 @@
+Avanços/Informações/Planejamento geral do projeto
+
+dia 09/09 
+
+Elaboração do banco de dados e seu Planejamento
+
+dia 27/09 
+
+Foi dado uma pausa no projeto devido aos estudos de final de período
+
+Planejamento do banco de dados:
+
+-USERS
+--id
+--email
+--password
+--name
+--birthdate
+--city
+--work
+--avatar
+--cover (foto de fundo aqui é armazenado no banco a url da foto)
+--token
+
+-UserRelations
+--id
+--user_from
+--user_to
+
+-Posts
+--id 
+--type(text, photo)
+--created_at
+--body
+
+-PostComents
+--id
+--id_post
+--id_user
+--created_at
+--body
+
+-PostLikes
+--id
+--id_post
+--id_user
+--created_at
+
+
+
+
+Aprendizado: 
+
+-Manipulação e projeção de um Banco de dados
